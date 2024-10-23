@@ -1,0 +1,2 @@
+python3 -m zipapp . -o cluster_micro_bundle -p '/usr/bin/env python3'
+chmod 755 cluster_micro_bundle
